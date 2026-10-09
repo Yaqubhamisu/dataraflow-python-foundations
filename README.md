@@ -47,3 +47,19 @@ The notebook also includes a Library Management System that brings several of th
 These projects represent part of my ongoing transition into data science and data-driven problem solving through the DataraFlow Internship.
 
 More data analysis and research-focused projects will be added as I progress through the internship.
+
+## Data Analysis Projects
+
+### Health Facility Stockout Analysis
+
+An exploratory data analysis project examining health facility stockout patterns using a dataset from Sierra Leone.
+
+The project explores stockout rates across products, facility types, districts, inventory conditions, and time using Python, Pandas, and Matplotlib.
+
+**Key findings include:**
+- An overall stockout rate of 13.55% across 457,225 records.
+- Differences in stockout rates across products, districts, and facility types.
+- Associations between stockout occurrences and inventory conditions.
+- Monthly variations in stockout rates.
+
+[View Project →](./health-facility-stockout-analysis/)
